@@ -9,7 +9,6 @@ function App() {
     <>
       <AppProvider>
         <h1>App Component</h1>
-        <h3>Topic: {topic}</h3>
         <ChildA />
       </AppProvider>
     </>
