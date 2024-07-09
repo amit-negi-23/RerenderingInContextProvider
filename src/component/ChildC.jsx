@@ -7,6 +7,7 @@ export default function ChildC() {
 
   console.log("child component C render")
   // console.log(state)
+  // console.log(state)
 
   return (
     <div>
